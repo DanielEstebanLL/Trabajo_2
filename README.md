@@ -1,6 +1,6 @@
 # TAREA 2 
 
-### Paso a pado de como crear un repositorio en GitHub
+### Paso a paso de como crear un repositorio en GitHub
 
 ## PASO 1: Inicia sesión en tu cuenta de GitHub
 Si aún no tienes una cuenta en GitHub, regístrate en GitHub. Si ya tienes una cuenta, inicia sesión.
