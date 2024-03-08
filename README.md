@@ -6,7 +6,7 @@
 Si aún no tienes una cuenta en GitHub, regístrate en GitHub. Si ya tienes una cuenta, inicia sesión.
 ## PASO 2: Navega a tu página principal de GitHub
 Después de iniciar sesión, serás dirigido a tu página principal. Haz clic en el botón "+" en la esquina superior derecha y selecciona "Nuevo repositorio".
-##PASO 3: Rellena la información del repositorio
+## PASO 3: Rellena la información del repositorio
 Llena la información básica para tu repositorio, incluyendo el nombre, descripción, visibilidad (público o privado) y otras opciones según tus necesidades. Luego, haz clic en "Crear repositorio".
 ## PASO4: Copia la URL del repositorio
 Después de crear el repositorio, serás redirigido a la página principal del repositorio. Copia la URL del repositorio desde la barra de direcciones del navegador.
